@@ -181,7 +181,12 @@ Contribuições são bem-vindas! Para adicionar novos payloads ou melhorias:
 <div align="center">
   <sub>⚠️ <strong>Para fins educacionais e testes autorizados apenas</strong> ⚠️</sub>
   <br/>
-  <sub>Feito com ❤️ para a comunidade de segurança ofensiva</sub>
+  
   <br/>
   <img width="350px" src="https://farm5.staticflickr.com/4675/39218636535_d43a6c4fb2_o_d.png">
+  <br/>
+  <br/>
+  <br/>
+      
+  <sub>Feito com ❤️ para a comunidade de segurança ofensiva</sub>
 </div>
